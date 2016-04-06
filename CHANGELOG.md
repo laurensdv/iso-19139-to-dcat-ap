@@ -2,7 +2,7 @@
 
 Unless specified otherwise, the entries in this changelog apply to file [`iso-19139-to-dcat-ap.xsl`](./iso-19139-to-dcat-ap.xsl).
 
-## 2016-09-03: Revised version (v1.4)
+## 2016-04-03: Revised version (v1.4)
 * Added address, position, individual names. Fixed missing properties. Other fixes for futher improved compliancy with GeoDCAT-AP
 
 ## 2015-09-03: Revised version (v1.4)
